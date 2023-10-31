@@ -2,6 +2,7 @@ base/
 global/
 pg_logical/
 pg_multixact/
+pg_stat/
 pg_subtrans/
 pg_wal/
 pg_xact/
