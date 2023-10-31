@@ -1,0 +1,11 @@
+base/
+global/
+pg_logical/
+pg_multixact/
+pg_subtrans/
+pg_wal/
+pg_xact/
+postgresql.auto.conf
+postmaster.opts
+postmaster.pid
+
